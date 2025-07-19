@@ -35,3 +35,11 @@ else
 fi
 
 echo "🔴 [CRIMSON] I vanish... but the logs remember me."
+A collection of cryptic wisdom from the Crimson Controller:
+
+    “The firewall dreams of electric sheep.”
+    “Only a fool pings twice.”
+    “The cookies have eyes. You gave them eyes.”
+    “Trust the riddle. Distrust the timestamp.”
+
+These are not just lines—they’re warnings for those who look too closely at logs, or cookies.
